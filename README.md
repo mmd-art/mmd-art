@@ -1,6 +1,6 @@
 <div align="center">
 
-# Artem Mamedov
+# Artem M
 
 **AI Product Developer @ AISO | Founder @ Stealth AI startup | I build LLM agents**
 
