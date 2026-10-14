@@ -16,7 +16,7 @@ Amsterdam Area, Netherlands
 
 - I build LLM agents: tool use, model routing, local models.
 - At AISO AI Projects I built a "Briefing Researcher" agent for an AI client-intake system.
-- Founder of a stealth AI startup, building a personal AI product with multiple agents.
+- Building a personal AI product with multiple agents.
 - Live demos: [Black Hole Lab](https://blackhole.mmd.red) · [Coffee Cyprus](https://coffee-cyprus.vercel.app)
 - Open to part-time AI engineering roles in the Amsterdam area or remote.
 
