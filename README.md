@@ -2,7 +2,7 @@
 
 # Artem M
 
-**AI Product Developer @ AISO | Founder @ Stealth AI startup | I build LLM agents**
+**AI Product Developer @ AISO | AI agents & automation**
 
 Amsterdam Area, Netherlands
 
