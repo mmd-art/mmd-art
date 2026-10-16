@@ -6,7 +6,7 @@
 
 Amsterdam Area, Netherlands
 
-[LinkedIn](https://www.linkedin.com/in/artem-mamedov) · [GitHub](https://github.com/mmd-art) · [Email](mailto:mmd.artem@icloud.com)
+[LinkedIn](https://www.linkedin.com/in/artem-mamedov) · [Email](mailto:mmd.artem@icloud.com)
 
 </div>
 
