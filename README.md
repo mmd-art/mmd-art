@@ -2,7 +2,7 @@
 
 # Artem Mamedov
 
-**Building at the intersection of business and AI | Product Developer | Agents & Automation | @ AISO**
+**Building at the intersection of business and AI | Product Developer | Agents & Automation | Strategic Projects Team @ AISO**
 
 Amsterdam Area, Netherlands
 
